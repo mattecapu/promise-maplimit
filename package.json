@@ -7,7 +7,7 @@
     "test": "node test"
   },
   "author": "Matteo Capucci <mattecapu@live.it>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "async": "^2.0.0-rc.1"
   }
