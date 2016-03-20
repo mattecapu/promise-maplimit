@@ -1,0 +1,14 @@
+{
+  "name": "promise-maplimit",
+  "version": "1.0.0",
+  "description": "maps promises in batches of a specific size",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Matteo Capucci <mattecapu@live.it>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.1"
+  }
+}
